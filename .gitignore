@@ -105,3 +105,6 @@ __pycache__
 # pylint files
 /pylint.cur
 /pylint.out/
+
+*.map
+*.mkimage
