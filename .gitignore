@@ -108,3 +108,4 @@ __pycache__
 
 *.map
 *.mkimage
+drivers/video/u_boot_logo.S
